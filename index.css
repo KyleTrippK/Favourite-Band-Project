@@ -17,8 +17,10 @@ body{
 }
 #strong {
     border: inset;
+    width: fit-content;
     background-color: rgb(238, 212, 178);
     margin-left: 20%;
+    padding: 10px;
 }
 .image_1 {
     width: 250%;

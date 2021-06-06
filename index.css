@@ -16,7 +16,8 @@ body{
     width: 600px;
 }
 #strong {
-    margin-left: 30%;
+    background-color: rgb(238, 212, 178);
+    margin-left: 20%;
 }
 .image_1 {
     width: 250%;

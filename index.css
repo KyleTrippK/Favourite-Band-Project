@@ -58,10 +58,3 @@ body{
     flex: 25%;
     padding: 5px;
 }
-#row_3 {
-    display: flex;
-}
-#column_3 {
-    flex: 50%;
-    padding: 5px;
-}

@@ -56,7 +56,7 @@ body{
     padding: 5px;
 }
 #row_3 {
-    display: flex, inline;
+    display: flex;
 }
 #column_3 {
     flex: 50%;

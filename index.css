@@ -57,7 +57,7 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #column_1 {
-    border: ridge rgb(233, 95, 95);
+    border: ridge rgb(231, 161, 81);
     flex: 25%;
     padding: 5px;
 }

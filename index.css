@@ -33,10 +33,12 @@ body{
     flex: 50%;
     padding: 5px;
 }.intro {
-    padding-top: 70%;
+    color: seagreen;
+    font-size: larger;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-right: 0%;
     margin-left: 42%;
+    margin-top: 17%;
 }
 #heading_2 {
     background-color: rgb(204, 180, 136);

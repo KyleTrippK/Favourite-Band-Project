@@ -41,8 +41,11 @@ body{
 .image_2 {
     width: 50%;
 }*/
+
+}
 #row_1 {
     display: flex;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #column_1 {
     flex: 50%;
@@ -50,6 +53,7 @@ body{
 }
 #row_2 {
     display: flex;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #column_2 {
     flex: 50%;

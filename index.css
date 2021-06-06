@@ -33,7 +33,7 @@ body{
     flex: 50%;
     padding: 5px;
 }.intro {
-    color: red;
+    color: rgb(109, 31, 31);
     font-size: larger;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-right: 0%;
@@ -42,13 +42,14 @@ body{
 }
 #heading_2 {
     background-color: rgb(204, 180, 136);
-    margin-left: 20%;
+    margin-left: 14%;
     padding: 10px;
     max-width: fit-content;
-}/*
+}
 .image_2 {
-    width: 50%;
-}*/
+    width: 100%;
+    height: 50%;
+}
 #row_1 {
     display: flex;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -57,14 +58,6 @@ body{
     flex: 25%;
     padding: 5px;
 }
-/*#row_2 {
-    display: flex;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-#column_2 {
-    flex: 50%;
-    padding: 5px;
-}*/
 #row_3 {
     display: flex;
 }

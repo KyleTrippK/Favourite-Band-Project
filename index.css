@@ -47,10 +47,11 @@ body{
     max-width: fit-content;
 }
 .image_2 {
-    width: 100%;
+    width: 50%;
     height: 50%;
 }
 #row_1 {
+    background-color: sienna;
     display: flex;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }

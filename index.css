@@ -11,11 +11,12 @@ body{
     font-size: 40px;
     color: rgb(20, 40, 220);
     border: 7px outset;
-    background-color: rgb(204, 180, 136);
+    background-color: rgb(250, 238, 253);
     padding: 20px;
     width: 600px;
 }
 #strong {
+    background-color: rgb(250, 238, 253);
     border: inset blanchedalmond;
     width: fit-content;
     margin-left: 20%;
@@ -33,7 +34,7 @@ body{
     flex: 50%;
     padding: 5px;
 }.intro {
-    color: rgb(109, 31, 31);
+    color: rgb(43, 32, 32);
     font-size: larger;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-right: 0%;
@@ -51,11 +52,12 @@ body{
     height: 50%;
 }
 #row_1 {
-    background-color: sienna;
+    background-color: rgb(179, 96, 58);
     display: flex;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #column_1 {
+    border: ridge black;
     flex: 25%;
     padding: 5px;
 }

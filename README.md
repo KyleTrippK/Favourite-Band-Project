@@ -16,6 +16,6 @@ To acces this on your local files, you can clone it using these steps
 2. CSS
 3. GIT
 ### Licence
-The project is under the [MIT](Licence) Licence
+The project is under the [MIT](Licence) Licence.
 ### Live site 
 View [live](https://kyletrippk.github.io/Favourite-Band-Project/)

@@ -10,7 +10,7 @@ body{
     font-style: italic;
     font-size: 40px;
     color: rgb(20, 40, 220);
-    border: 7px outset;
+    border: 7px inset;
     background-color: rgb(250, 238, 253);
     padding: 20px;
     width: 600px;
